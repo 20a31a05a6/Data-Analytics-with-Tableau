@@ -1,7 +1,7 @@
 # Data-Analytics-with-Tableau
 <h3>Topic: Plugging into the Future: An Exploration of Electricity Consumption Patterns</h3>
 
-By<h4>Durga Prasad Ganta</h4>,Roll No: <h4>20A31A05A6</h4>,CSE, Pragati Engineering College.
+By Durga Prasad Ganta, Roll No:20A31A05A6, CSE, Pragati Engineering College.
 
 Document: Contains project report Project files: Contains dataset used and workbook Video Demo: Contains video demo of project Web Files: Contains website files of project
 
